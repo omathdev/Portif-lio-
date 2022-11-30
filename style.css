@@ -243,6 +243,7 @@ input, textarea, button {
 /* FOOTER */
 
 footer {
+  height:200px;
   positivo:relative;
   top:5%;
   padding: 50px;
